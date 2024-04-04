@@ -1,6 +1,18 @@
-# 💫 About Me:
-👻 I’m currently working on React<br>☘️I'm looking to learn Nodejs<br>✳️My aim is to learn MERN stack
+<h1 align="center">Hi 👋, I'm Nikhil Oli</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# 💫 About Me:
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **Nodejs, Express and MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://nikhil-oli.vercel.app/](https://nikhil-oli.vercel.app/)
+
+- 💬 Ask me about **Tech trends**
+
+- 📫 How to reach me **nikhiloli107@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankeet_oli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-oli) 
