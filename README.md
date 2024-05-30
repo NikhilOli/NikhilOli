@@ -7,15 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiloli&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiloli" /> </p>
 
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on MERN stack
 
-- 🌱 I’m currently learning **Nodejs, Express and MongoDB**
+- 🌱 I’m currently learning Typescript
 
 - 👨‍💻 All of my projects are available at [https://nikhil-oli.vercel.app/](https://nikhil-oli.vercel.app/)
 
-- 💬 Ask me about **Tech trends**
-
-- 📫 How to reach me **nikhiloli107@gmail.com**
+- 📫 **nikhiloli107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
