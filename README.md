@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Typescript
 
-- 👨‍💻 All of my projects are available at [https://nikhil-oli.vercel.app/](https://nikhil-oli.vercel.app/)
+- 👨‍💻 My Portfolio [https://www.nikhiloli.me//](https://www.nikhiloli.me/)
 
 - 📫 Email: **nikhiloli107@gmail.com**
 
