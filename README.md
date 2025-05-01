@@ -28,8 +28,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiloli&show_icons=true&locale=en&layout=compact&theme=radical" alt="nikhiloli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiloli&show_icons=true&locale=en&theme=radical" alt="nikhiloli" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=no&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiloli&theme=radical" alt="nikhiloli" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhiloli&theme=radical" alt="nikhiloli" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
