@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiloli&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiloli" /> </p>
 
 
-- 🔭 I’m currently working on MERN stack
+- 🔭 I’m currently working on Next.js
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Prisma
 
 - 👨‍💻 My Portfolio [https://www.nikhiloli.me//](https://www.nikhiloli.me/)
 
