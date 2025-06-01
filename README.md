@@ -7,9 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiloli&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiloli" /> </p>
 
 
-- 🔭 I’m currently working on Next.js
+- ⚡ I enjoy building fast, user-focused web experiences  
 
-- 🌱 I’m currently learning Prisma
+- 🧠 Passionate about clean code, creative UI, and problem-solving
+
+- 🛠️ Tech stack: JavaScript / TypeScript, React, Node.js, Next.js
+
+- 💬 I love talking about web performance, developer tools, and design systems
+  
+- 🎯 Always aiming to improve both the product and the process  
 
 - 👨‍💻 My Portfolio [https://www.nikhiloli.me//](https://www.nikhiloli.me/)
 
